@@ -1,3 +1,3 @@
 # test-repo
-small demo done
+small demo done.
 
