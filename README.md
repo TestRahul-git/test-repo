@@ -1,2 +1,3 @@
 # test-repo
-small demo
+small demo done
+
